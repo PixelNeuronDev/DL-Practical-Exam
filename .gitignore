@@ -3,3 +3,4 @@ __pycache__/
 exp2b_mnist_classification/data/
 exp5_autoencoder/data/
 .ipynb_checkpoints/
+exp8_webapp/server.log
