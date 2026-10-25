@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+exp2b_mnist_classification/data/
+exp5_autoencoder/data/
+.ipynb_checkpoints/
